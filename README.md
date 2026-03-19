@@ -9,6 +9,7 @@
 ## 💡 About Me
 
 I am a Data Analyst with 5+ years of experience delivering data-driven insights in the public sector.
+👉 Turned complex government datasets into decision-ready insights used by senior stakeholders.
 
 At the Government of Andhra Pradesh, I worked with large-scale datasets including grievance systems, programme eligibility, and operational metrics, transforming raw data into actionable insights that improved service delivery and policy decisions.
 
@@ -50,13 +51,12 @@ Data Cleaning • Reporting Automation • Business Intelligence • Stakeholder
 👉 [View Project](https://github.com/ramaseshu-data/YOUR-REPO-LINK)
 
 ---
+🏆 Achievements
+🦠 Best Officer Award – COVID-19 Data Operations
+Recognised for owning live dashboards for testing, cases, and vaccination tracking, enabling real-time decision-making during critical public health response
 
-## 📈 Currently Learning
-
-- Advanced SQL & Query Optimization  
-- Python for Data Analysis  
-- Power BI Dashboard Development  
-- Real-world Analytics Projects  
+⚡ Reporting Automation Impact
+Reduced manual reporting effort by ~60% by building automated data workflows, improving data accuracy and reporting speed across departments 
 
 ---
 
