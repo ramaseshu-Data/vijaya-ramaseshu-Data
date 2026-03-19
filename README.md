@@ -35,5 +35,5 @@ A project analyzing food waste patterns and predictive insights for better decis
 - Real-world portfolio projects
 
 ## Connect With Me
-- LinkedIn: ADD_YOUR_LINK
+- LinkedIn:(https://www.linkedin.com/in/vijaya-rama-seshu-meruva-5a5480b3/)
 - Email: ramaseshu34@gmail.com
