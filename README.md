@@ -1,75 +1,34 @@
-# Hi, I'm Vijaya Rama Seshu Meruva 👋
+# 👋 Hi, I'm Vijaya Rama Seshu Meruva
 
-🎓 MSc Computing (Information & System Processes)  
-South East Technological University (SETU), Ireland  
-
-📊 Data Analyst | SQL | Python | Power BI | Tableau  
-📍 Based in Ireland  
+🎓 MSc Computing @ SETU, Ireland  
+📊 Data Analyst | SQL | Power BI | Python  
 
 ---
 
-## 💡 About Me
+## 🚀 Featured Projects
 
-I am a **Data Analyst with 6+ years of experience** in data analysis, dashboard development, and reporting within the public sector.
+### 🥋 Martial Arts Academy Analytics
+👉 https://github.com/ramaseshu-data/martial-arts-academy-analytics
 
-Previously worked with the **Government of Andhra Pradesh**, analysing grievance data, operational metrics, and programme eligibility records to support policy decisions and service delivery improvements.
+- SQL + Power BI project  
+- Built dashboards for revenue, attendance, retention  
+- Identified at-risk students  
 
-Currently pursuing **MSc in Computing at SETU, Ireland**, focusing on:
+---
 
-- Artificial Intelligence
-- Business Intelligence
-- Data Analytics
-- Predictive Modelling
-- Data Visualization
+### 🍃 FreshFood AI Analytics
+👉 https://github.com/ramaseshu-data/freshfood-ai-food-waste-analytics
 
-I am now seeking opportunities in the **Irish Data Analytics industry**.
+- AI-based analytics concept  
+- Focus on food waste prediction  
+- Data-driven sustainability approach  
 
 ---
 
 ## 🛠 Skills
-
-**Programming & Querying**
-- SQL
-- Python
-
-**Data Visualization**
-- Power BI
-- Tableau
-
-**Data Tools**
-- Excel
-- DAX
-- ETL
-- Data Cleaning
-- Data Transformation
-
-**Analytics**
-- Business Intelligence
-- Dashboard Development
-- KPI Reporting
-- Data Modelling
+SQL • Power BI • Python • Excel • Data Analytics • DAX • ETL  
 
 ---
 
-## 📂 Featured Projects
-
-### 🍃 FreshFood – AI Driven Food Waste Prediction Platform
-AI-powered platform designed to predict surplus food using analytics, IoT concepts, and blockchain traceability to improve food redistribution efficiency.
-
-### 🏥 Hospital Length of Stay Prediction
-Machine learning project focused on predicting patient stay duration to improve hospital resource planning.
-
-### 📊 Data Analytics Dashboard Projects
-Interactive dashboards developed using **Power BI and Tableau** to analyse operational and performance metrics.
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/vijaya-rama-seshu-meruva-5a5480b3/ 
-
-Location: Ireland
-
----
-
-⭐ Always open to collaboration and data analytics opportunities.
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/vijaya-rama-seshu-meruva-5a5480b3/
